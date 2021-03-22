@@ -7,3 +7,17 @@ $ git config --global user.email "faisal.gerdazi@gmail.com"
 $ git config --global push.default matching
 $ git config --global alias.co checkout
 $ git init
+
+
+$ git add . ## add the files to git, temp location
+
+$ git commit -am "initial commit"    ## it adds the files to local repository
+
+
+
+now move back to orignal /default path to add SSH keys
+
+$cd ~\
+
+$ pwd
+c/users/syed faisal
