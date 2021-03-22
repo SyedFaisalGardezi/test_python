@@ -13,7 +13,9 @@ $ git add . ## add the files to git, temp location
 
 $ git commit -am "initial commit"    ## it adds the files to local repository
 
-
+## after modification need to add that again to repo
+$ git add Git_Commands.txt
+$ git commit -m Git_Commands.txt
 
 now move back to orignal /default path to add SSH keys
 
