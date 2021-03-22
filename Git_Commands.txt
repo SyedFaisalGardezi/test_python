@@ -1,0 +1,9 @@
+
+https://codemy.com/git
+
+
+$ git config --global user.name "Syed Faisal Ishtiaq"
+$ git config --global user.email "faisal.gerdazi@gmail.com"
+$ git config --global push.default matching
+$ git config --global alias.co checkout
+$ git init
